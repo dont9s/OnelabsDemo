@@ -1,0 +1,8 @@
+<!--
+  ~ Copyright (c) 2019 Created by Adit Chauhan
+  -->
+
+<resources>
+    <string name="app_name">OnelabsDemo</string>
+    <string name="title_activity_single_image">SingleImage</string>
+</resources>

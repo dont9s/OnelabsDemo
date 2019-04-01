@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2019 Created by Adit Chauhan
+  -->
+
+<resources>
+    <dimen name="search_icon_padding">12dp</dimen>
+    <dimen name="search_view_text_padding">8dp</dimen>
+</resources>
